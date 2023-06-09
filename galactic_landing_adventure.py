@@ -43,7 +43,7 @@ lander_start_orientation = 150
 
 # Lander specs
 lander_scale = 0.5
-lander_color = 'gray'
+lander_color = 'blue'
 lander_flame_color = 'red'
 engine_thrust = 0
 max_engine_thrust = 0.025
