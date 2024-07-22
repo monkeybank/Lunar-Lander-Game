@@ -10,9 +10,9 @@ import os, sys, subprocess # Credit to Guido van Rossum https://docs.python.org/
 # ---------- Variable definitions ----------
 
 # Creates the screen object
+
 wn = turtle.Screen()
 wn.title("Galactic Landing Adventure")
-
 # Register the lunar lander turtle shapes
 turtle.register_shape('lander',((25,-25), (40,-50),(45,-50),(45,-52),(30,-52),(30,-50),(35,-50),(20,-30),(10,-30),(15,-40),(-15,-40),(-10,-30),(-20,-30),(-35,-50),(-30,-50),(-30,-52),(-45,-52),(-45,-50),(-40,-50),(-25,-25),(-35,-15),(-35,15),(-25,25),(-29,26),(-32,29),(-32,32),(-29,35),(-26,35),(-23,32),(-23,29),(-25,25),(-15,35),(15,35),(25,25),(35,15),(35,-15)))
 turtle.register_shape('flames',((14,-40),(20,-62),(10,-50),(6,-58),(0,-50),(-4,-60),(-6,-50),(-18,-58),(-14,-40)))
