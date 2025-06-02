@@ -1,6 +1,6 @@
 # Galactic Landing Adventure
 # This is a program designed to simulate the physics of lading on the moon 
-# or some other celestial object.
+# or some other celestial object
 
 # Imports the turtle, random, and the program reset modules
 import turtle # Original design credit to Wally Feurzig and Seymour Papert https://docs.python.org/3/library/turtle.html
